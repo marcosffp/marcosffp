@@ -7,8 +7,6 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosffp&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosffp)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que eu uso no meu dia
 
 
