@@ -1,14 +1,10 @@
 ### Olá! Eu sou o Marcos Alberto 👋
 
-<a href="https://www.instagram.com/marcos.fkp" style="display:inline-block;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://www.linkedin.com/in/marcos-alberto-4502a6304" style="display:inline-block;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos.fkp)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-alberto-4502a6304)
 
-<img src="https://github-readme-stats.vercel.app/api?username=marcosffp&show_icons=true&theme=tokyonight" alt="Marcos GitHub stats" style="display:inline-block;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosffp&layout=compact&langs_count=16&theme=tokyonight" alt="Marcos GitHub stats" style="display:inline-block;">
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosffp&show_icons=true&theme=tokyonight)
+![Marcos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosffp&layout=compact&langs_count=16&theme=tokyonight)
 
 ### Tecnologias que eu uso no meu dia
 
