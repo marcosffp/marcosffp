@@ -17,7 +17,7 @@
 <code><img height="20" alt="c++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></br>   
 <code><img height="20" alt="bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code></br>  
-<code><img height="20" alt="java" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"></code></br>  
+<code><img height="20" alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code></br>  
 
 
 
