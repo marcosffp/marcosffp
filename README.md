@@ -7,7 +7,7 @@
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosffp&show_icons=true&theme=tokyonight)
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosffp&layout=compact&langs_count=16&theme=tokyonight)
 
-### Tecnologias que eu uso no meu dia
+### Tech Stack
 
 
 <code><img height="20" alt="notion" src="https://cdn.iconscout.com/icon/free/png-256/free-notion-2296040-1911999.png?f=webp&w=256"></code>
@@ -31,4 +31,3 @@
 <code><img height="20" alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 
 
-Apaixonado por tecnologias, educação e por transformar a vida das pessoas por meio do desenvolvimento de software.
