@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos.fkp)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-alberto-4502a6304)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black)](mailto:marcosferralbe@gmail.com)
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosffp&show_icons=true&theme=tokyonight)
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosffp&layout=compact&langs_count=16&theme=tokyonight)
