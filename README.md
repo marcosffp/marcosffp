@@ -10,6 +10,7 @@
 ### Tecnologias que eu uso no meu dia
 
 
+<code><img height="20" alt="notion" src="https://cdn.iconscout.com/icon/free/png-256/free-notion-2296040-1911999.png?f=webp&w=256"></code>
 <code><img height="20" alt="visual studio code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519g"></code>
 <code><img height="20" alt="html" src="https://static-00.iconduck.com/assets.00/html-5-icon-449x512-uii6qqbu.png"></code>
 <code><img height="20" alt="css" src="https://logospng.org/download/css-3/logo-css-3-2048.png"></code>
@@ -19,6 +20,7 @@
 <code><img height="20" alt="github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpUN6yhPjDbIPLhCSEXdnqaBqCj4IYrrbHw&s"></code>
 <code><img height="20" alt="replit" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png"></code>
 <code><img height="20" alt="nodejs" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"></code>
+<code><img height="20" alt="postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg"></code>
 <code><img height="20" alt="vercel" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"></code>
 <code><img height="20" alt="figma" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png"></code>
 <code><img height="20" alt="miro" src="https://files.readme.io/17d4a23-miro-logo-color-square.png"></code>
