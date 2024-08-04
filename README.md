@@ -20,6 +20,7 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="vercel" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"></code>
 <code><img height="20" alt="figma" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png"></code>
+<code><img height="20" alt="miro" src="https://files.readme.io/17d4a23-miro-logo-color-square.png"></code>
 <code><img height="20" alt="windows 11" src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png"></code>
 <code><img height="20" alt="code blocks" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/codeblocks_104542.png"></code>
 <code><img height="20" alt="c" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/C_logo-6-150x150.png"></code>
