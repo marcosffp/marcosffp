@@ -12,14 +12,14 @@
 
 <code><img height="25" alt="notion" src="https://cdn.iconscout.com/icon/free/png-256/free-notion-2296040-1911999.png?f=webp&w=256"></code>
 <code><img height="25" alt="visual studio code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519g"></code>
-<code><img height="25" alt="html" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fhtml-5_732212&psig=AOvVaw0KmJR_Bst_IpL4byYC7Wlv&ust=1724163456930000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjIrsefgYgDFQAAAAAdAAAAABAE"></code>
+<code><img height="25" alt="html" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
 <code><img height="25" alt="css" src="https://logospng.org/download/css-3/logo-css-3-2048.png"></code>
 <code><img height="25" alt="bootstrap" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"></code>
 <code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" alt="git" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"></code>
 <code><img height="25" alt="github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzpUN6yhPjDbIPLhCSEXdnqaBqCj4IYrrbHw&s"></code>
 <code><img height="25" alt="replit" src="https://seeklogo.com/images/R/replit-icon-logo-A666709FE9-seeklogo.com.png"></code>
-<code><img height="25" alt="nodejs" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27728%2Fnode-js&psig=AOvVaw1Bb4XNcIVjvqr94WITZOc-&ust=1724163514121000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiU0N-fgYgDFQAAAAAdAAAAABAE"></code>
+<code><img height="25" alt="nodejs" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5-e_zLyIIrlVMxClajEd6a1KCSg8D5koXLQ&s"></code>
 <code><img height="25" alt="postman" src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F04e04350-1ef9-40d5-893f-aa743ad3435c&w=256&q=75"></code>
 <code><img height="25" alt="vercel" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"></code>
 <code><img height="25" alt="figma" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png"></code>
