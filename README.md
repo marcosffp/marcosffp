@@ -47,10 +47,11 @@
 <code><img height="25" alt="insomnia" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png"></code>
 <code><img height="25" alt="camunda" src="https://www.holunda.io/camunda-bpm-data/snapshot/assets/img/camunda-logo.png"></code>
 <code><img height="25" alt="lucidchart" src="https://store-images.s-microsoft.com/image/apps.7736.f1e439b9-777e-47dd-b695-f05d19eb7b38.8ee3e6f6-c400-4919-811d-59b0cd18fa41.e5bd6ef7-31e5-4ca5-a5c6-79be979af666.png"></code>
-<code><img height="25" alt="astro" src="https://astro.build/assets/press/astro-icon-dark.png"></code>
-<code><img height="25" alt="astro" src="https://astro.build/assets/press/astro-icon-dark.png"></code>
-<code><img height="25" alt="astro" src="https://astro.build/assets/press/astro-icon-dark.png"></code>
-<code><img height="25" alt="astro" src="https://astro.build/assets/press/astro-icon-dark.png"></code>
+<code><img height="25" alt="springboot" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"></code>
+<code><img height="25" alt="heidiSQL" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png"></code>
+<code><img height="25" alt="dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png"></code>
+<code><img height="25" alt="mySQL" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png"></code>
+<code><img height="25" alt="intellij" src="[https://astro.build/assets/press/astro-icon-dark.png](https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png)"></code>
 </div>
 
 -----
