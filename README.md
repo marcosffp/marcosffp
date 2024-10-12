@@ -16,6 +16,8 @@
   </table>
 </div>
 
+<hr style="border: 1px solid #ccc; width: 80%;"/>
+
 <div align="justify">
   <i><b>Olá</b> 👋, sou o <code>Marcos</code>, tenho 19 anos, moro em BH e programo desde os 18 anos. Atualmente, sou <code>aluno</code> do curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> 👨‍💻<br />
 </div>
@@ -51,11 +53,65 @@
 <code><img height="25" alt="heidiSQL" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png"></code>
 <code><img height="25" alt="dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png"></code>
 <code><img height="25" alt="mySQL" src="https://w7.pngwing.com/pngs/747/798/png-transparent-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-text-thumbnail.png"></code>
-<code><img height="25" alt="intellij" src="[https://astro.build/assets/press/astro-icon-dark.png](https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png)"></code>
+<code><img height="25" alt="intellij" src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png"></code>
 </div>
 
------
-### Tech Stack
+<hr style="border: 1px solid #ccc; width: 80%;"/>
+<img height="20" alt="GIF" src="https://github.com/marcosffp/marcosffp/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaopauloaramuni&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosffp&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosffp&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosffp&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcosffp&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosffp&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marcosffp&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marcosffp&theme=github_dark"/>
+</td>
+<td>
+<img alt="WakaTime" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcosffp&theme=dark&layout=compact"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+
+</div>
 
 
 
