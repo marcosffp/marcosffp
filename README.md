@@ -22,7 +22,7 @@
   <i><b>Olá</b> 👋, sou o <code>Marcos</code>, tenho 19 anos, moro em BH e programo desde os 18 anos. Atualmente, sou <code>aluno</code> do curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> 👨‍💻<br />
 </div>
 
-
+<hr style="border: 1px solid #ccc; width: 80%;"/>
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
