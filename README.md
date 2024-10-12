@@ -1,14 +1,28 @@
-### Olá! Eu sou o Marcos Alberto 👋
+<div align="center">
+  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/239a47d2-10b6-4bad-8245-d01b3605c028" width="1000" height="300"/>
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcos.fkp)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-alberto-4502a6304)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=black)](mailto:marcosferralbe@gmail.com)
+<hr style="border: 1px solid #ccc; width: 80%;"/>
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosffp&show_icons=true&theme=tokyonight)
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosffp&layout=compact&langs_count=16&theme=tokyonight)
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://github.com/marcosffp" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a></td>
+      <td><a href="https://replit.com/@mafpinto"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/replit3.svg?raw=true" width="50px" height="50px"/></a></td>
+      <td><a href="mailto:marcosferralbe@gmail.com" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a></td>
+      <td><a href="https://www.instagram.com/marcos.fkp/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a></td>
+      <td><a href="https://www.linkedin.com/in/marcos-alberto-4502a6304/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a></td>
+    </tr>
+  </table>
+</div>
 
-### Tech Stack
+<div align="justify">
+  <i><b>Olá</b> 👋, sou o <code>Marcos</code>, tenho 19 anos, moro em BH e programo desde os 18 anos. Atualmente, sou <code>aluno</code> do curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> 👨‍💻<br />
+</div>
 
+
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 <code><img height="25" alt="notion" src="https://cdn.iconscout.com/icon/free/png-256/free-notion-2296040-1911999.png?f=webp&w=256"></code>
 <code><img height="25" alt="visual studio code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519g"></code>
@@ -29,5 +43,20 @@
 <code><img height="25" alt="c" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/C_logo-6-150x150.png"></code>
 <code><img height="25" alt="c++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="25" alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img height="25" alt="astro" src="https://astro.build/assets/press/astro-icon-light-gradient.png"></code>
+<code><img height="25" alt="insomnia" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png"></code>
+<code><img height="25" alt="camunda" src="https://www.holunda.io/camunda-bpm-data/snapshot/assets/img/camunda-logo.png"></code>
+<code><img height="25" alt="lucidchart" src="https://store-images.s-microsoft.com/image/apps.7736.f1e439b9-777e-47dd-b695-f05d19eb7b38.8ee3e6f6-c400-4919-811d-59b0cd18fa41.e5bd6ef7-31e5-4ca5-a5c6-79be979af666.png"></code>
+<code><img height="25" alt="astro" src="https://astro.build/assets/press/astro-icon-dark.png"></code>
+<code><img height="25" alt="astro" src="https://astro.build/assets/press/astro-icon-dark.png"></code>
+<code><img height="25" alt="astro" src="https://astro.build/assets/press/astro-icon-dark.png"></code>
+<code><img height="25" alt="astro" src="https://astro.build/assets/press/astro-icon-dark.png"></code>
+</div>
+
+-----
+### Tech Stack
+
+
+
 
 
