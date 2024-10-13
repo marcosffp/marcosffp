@@ -20,7 +20,12 @@
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
+
+
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+
+
+
 
 <code><img height="25" alt="notion" src="https://cdn.iconscout.com/icon/free/png-256/free-notion-2296040-1911999.png?f=webp&w=256"></code>
 <code><img height="25" alt="visual studio code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519g"></code>
@@ -53,7 +58,13 @@
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true" />&nbsp;GitHub Stats:</span>
+
+
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true" />&nbsp;GitHub Stats:
+
+
+
 
 
 <div align="center">
