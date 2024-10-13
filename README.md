@@ -1,9 +1,7 @@
 <div align="center">
-  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/239a47d2-10b6-4bad-8245-d01b3605c028" width="1000" height="300"/>
+  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/ab913924-65a3-408d-96dc-1f8dc7a0cdf2" width="1000" height="300"/>
 </div>
-
 <hr style="border: 1px solid #ccc; width: 80%;"/>
-
 <div align="center">
   <table>
     <tr>
@@ -17,13 +15,11 @@
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
-
 <div align="justify">
   <i><b>Olá</b> 👋, sou o <code>Marcos</code>, tenho 19 anos, moro em BH e programo desde os 18 anos. Atualmente, sou <code>aluno</code> do curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> 👨‍💻<br />
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
-
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 <code><img height="25" alt="notion" src="https://cdn.iconscout.com/icon/free/png-256/free-notion-2296040-1911999.png?f=webp&w=256"></code>
@@ -57,7 +53,8 @@
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
-<img height="20" alt="GIF" src="https://github.com/marcosffp/marcosffp/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true" />&nbsp;GitHub Stats:</span>
+
 
 <div align="center">
 <table>
@@ -110,10 +107,10 @@
 </tr> 
 </table>
 </div>
-
 </div>
 
+<hr style="border: 1px solid #ccc; width: 80%;"/>
 
-
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06b5ff&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DCDCDC&section=footer" width="1000" />
 
