@@ -1,5 +1,6 @@
 <div align="center">
-  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/ab913924-65a3-408d-96dc-1f8dc7a0cdf2" style="max-width: 100%; height: auto; object-fit: cover;" />
+
+  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/04d00f51-823d-40a3-95a6-702651a10ce4" style="max-width: 100%; height: auto; object-fit: cover;" />
 </div>
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 <div align="center">
@@ -55,6 +56,7 @@
 <code><img height="35" alt="dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png"></code>
 <code><img height="35" alt="mySQL" src="https://www.loggly.com/wp-content/uploads/2017/02/setup-mysql-1.png"></code>
 <code><img height="35" alt="intellij" src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png"></code>
+<code><img height="35" alt="typescript" src="https://cdn-icons-png.freepik.com/512/5968/5968381.png"></code>
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
