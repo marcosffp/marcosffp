@@ -57,6 +57,7 @@
 <code><img height="35" alt="mySQL" src="https://www.loggly.com/wp-content/uploads/2017/02/setup-mysql-1.png"></code>
 <code><img height="35" alt="intellij" src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png"></code>
 <code><img height="35" alt="typescript" src="https://cdn-icons-png.freepik.com/512/5968/5968381.png"></code>
+<code><img height="35" alt="copilot-github" src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.245.0/1731090115721/Microsoft.VisualStudio.Services.Icons.Default"></code>
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
