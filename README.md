@@ -58,8 +58,8 @@
 <code><img height="35" alt="intellij" src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png"></code>
 <code><img height="35" alt="typescript" src="https://cdn-icons-png.freepik.com/512/5968/5968381.png"></code>
 <code><img height="35" alt="copilot-github" src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.245.0/1731090115721/Microsoft.VisualStudio.Services.Icons.Default"></code>
-<code><img height="35" alt="docker" src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png"></code>
-<code><img height="35" alt="render" src="[https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png](https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png)"></code>
+<code><img height="35" alt="docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
+<code><img height="35" alt="render" src="https://global.discourse-cdn.com/flex016/uploads/render/original/2X/1/11352202c8503f736bea5efb59684f678d7c860c.svg"></code>
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
