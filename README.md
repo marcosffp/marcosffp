@@ -60,6 +60,7 @@
 <code><img height="35" alt="copilot-github" src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.245.0/1731090115721/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="35" alt="docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
 <code><img height="35" alt="render" src="https://global.discourse-cdn.com/flex016/uploads/render/original/2X/1/11352202c8503f736bea5efb59684f678d7c860c.svg"></code>
+<code><img height="35" alt="aiven-console" src="https://assets.wheelhouse.com/media/_solution_logo_09222023_26755928.png"></code>
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
