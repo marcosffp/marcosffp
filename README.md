@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/04d00f51-823d-40a3-95a6-702651a10ce4" style="max-width: 100%; height: auto; object-fit: cover;" />
+  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/a622c3bb-b091-4b66-96b0-1d8e1423de56" style="max-width: 100%; height: auto; object-fit: cover;" />
 </div>
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 <div align="center">
