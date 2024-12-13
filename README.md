@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/a622c3bb-b091-4b66-96b0-1d8e1423de56" style="max-width: 100%; height: auto; object-fit: cover;" />
+
+  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/3fcb9dc9-2514-486d-8c4c-e8e3bc9cb648" style="max-width: 100%; height: auto; object-fit: cover;" />
 </div>
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 <div align="center">
@@ -61,6 +62,8 @@
 <code><img height="35" alt="docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
 <code><img height="35" alt="render" src="https://global.discourse-cdn.com/flex016/uploads/render/original/2X/1/11352202c8503f736bea5efb59684f678d7c860c.svg"></code>
 <code><img height="35" alt="aiven-console" src="https://assets.wheelhouse.com/media/_solution_logo_09222023_26755928.png"></code>
+<code><img height="35" alt="tailwind" src="https://github.com/user-attachments/assets/a0cbfc37-5c80-4835-90b3-019a03916068"></code>
+
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
