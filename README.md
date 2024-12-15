@@ -63,6 +63,7 @@
 <code><img height="35" alt="render" src="https://global.discourse-cdn.com/flex016/uploads/render/original/2X/1/11352202c8503f736bea5efb59684f678d7c860c.svg"></code>
 <code><img height="35" alt="aiven-console" src="https://assets.wheelhouse.com/media/_solution_logo_09222023_26755928.png"></code>
 <code><img height="35" alt="tailwind" src="https://github.com/user-attachments/assets/a0cbfc37-5c80-4835-90b3-019a03916068"></code>
+<code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 
 </div>
 
