@@ -1,7 +1,8 @@
 <div align="center">
 
 
-  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/3fcb9dc9-2514-486d-8c4c-e8e3bc9cb648" style="max-width: 100%; height: auto; object-fit: cover;" />
+
+  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/61a58ef3-c9bc-4b3d-b57b-eee368905ff7" style="max-width: 100%; height: auto; object-fit: cover;" />
 </div>
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 <div align="center">
@@ -60,9 +61,10 @@
 <code><img height="35" alt="typescript" src="https://cdn-icons-png.freepik.com/512/5968/5968381.png"></code>
 <code><img height="35" alt="copilot-github" src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.245.0/1731090115721/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="35" alt="docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
-<code><img height="35" alt="render" src="https://global.discourse-cdn.com/flex016/uploads/render/original/2X/1/11352202c8503f736bea5efb59684f678d7c860c.svg"></code>
+<code><img height="35" alt="render" src="https://github.com/user-attachments/assets/98b87858-02bc-4822-bd49-ef66df57f7db"></code>
 <code><img height="35" alt="aiven-console" src="https://assets.wheelhouse.com/media/_solution_logo_09222023_26755928.png"></code>
 <code><img height="35" alt="tailwind" src="https://github.com/user-attachments/assets/a0cbfc37-5c80-4835-90b3-019a03916068"></code>
+<code><img height="35" alt="python" src="https://github.com/user-attachments/assets/74a30a66-b864-4073-97de-913f33372945"></code>
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 
 </div>
