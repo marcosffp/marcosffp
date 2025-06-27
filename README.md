@@ -49,7 +49,7 @@
 <code><img height="35" alt="c++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="35" alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="35" alt="astro" src="https://astro.build/assets/press/astro-icon-light-gradient.png"></code>
-<code><img height="35" alt="insomnia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQKJrkgkZqkkVUXnYdqATpo6PjVWKG8N1GA&s"></code>
+<code><img height="35" alt="insomnia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNYOmIxmFn7ZGExi5g9EegcvWhYBpvZ5M3LA&s"></code>
 <code><img height="35" alt="camunda" src="https://www.holunda.io/camunda-bpm-data/snapshot/assets/img/camunda-logo.png"></code>
 <code><img height="35" alt="lucidchart" src="https://store-images.s-microsoft.com/image/apps.7736.f1e439b9-777e-47dd-b695-f05d19eb7b38.8ee3e6f6-c400-4919-811d-59b0cd18fa41.e5bd6ef7-31e5-4ca5-a5c6-79be979af666.png"></code>
 <code><img height="35" alt="springboot" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"></code>
@@ -65,6 +65,7 @@
 <code><img height="35" alt="tailwind" src="https://github.com/user-attachments/assets/a0cbfc37-5c80-4835-90b3-019a03916068"></code>
 <code><img height="35" alt="python" src="https://github.com/user-attachments/assets/74a30a66-b864-4073-97de-913f33372945"></code>
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
+<code><img height="35" alt="astah" src="https://yt3.googleusercontent.com/ytc/AIdro_lL1--y63-oDlcrtDfSMns9GYAeQNScYnOXew4J6arc1g=s900-c-k-c0x00ffffff-no-rj"></code>
 
 </div>
 
