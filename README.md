@@ -41,22 +41,22 @@
 <code><img height="35" alt="nodejs" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code>
 <code><img height="35" alt="postman" src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2F04e04350-1ef9-40d5-893f-aa743ad3435c&w=256&q=75"></code>
 <code><img height="35" alt="vercel" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"></code>
-<code><img height="35" alt="figma" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png"></code>
+<code><img height="35" alt="figma" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
 <code><img height="35" alt="miro" src="https://files.readme.io/17d4a23-miro-logo-color-square.png"></code>
 <code><img height="35" alt="windows 11" src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png"></code>
-<code><img height="35" alt="code blocks" src="https://static-00.iconduck.com/assets.00/codeblocks-icon-2048x2048-zxpw2vvm.png"></code>
+<code><img height="35" alt="code blocks" src="https://images.icon-icons.com/1508/PNG/512/codeblocks_104542.png"></code>
 <code><img height="35" alt="c" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/C_logo-6-150x150.png"></code>
 <code><img height="35" alt="c++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="35" alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="35" alt="astro" src="https://astro.build/assets/press/astro-icon-light-gradient.png"></code>
-<code><img height="35" alt="insomnia" src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png"></code>
+<code><img height="35" alt="insomnia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQKJrkgkZqkkVUXnYdqATpo6PjVWKG8N1GA&s"></code>
 <code><img height="35" alt="camunda" src="https://www.holunda.io/camunda-bpm-data/snapshot/assets/img/camunda-logo.png"></code>
 <code><img height="35" alt="lucidchart" src="https://store-images.s-microsoft.com/image/apps.7736.f1e439b9-777e-47dd-b695-f05d19eb7b38.8ee3e6f6-c400-4919-811d-59b0cd18fa41.e5bd6ef7-31e5-4ca5-a5c6-79be979af666.png"></code>
 <code><img height="35" alt="springboot" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"></code>
 <code><img height="35" alt="heidiSQL" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png"></code>
 <code><img height="35" alt="dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png"></code>
 <code><img height="35" alt="mySQL" src="https://icons.veryicon.com/png/o/system/inspur-cloud-icon/rds-mysql.png"></code>
-<code><img height="35" alt="intellij" src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png"></code>
+<code><img height="35" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/1200px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png"></code>
 <code><img height="35" alt="typescript" src="https://cdn-icons-png.freepik.com/512/5968/5968381.png"></code>
 <code><img height="35" alt="copilot-github" src="https://github.gallerycdn.vsassets.io/extensions/github/copilot/1.245.0/1731090115721/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="35" alt="docker" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png"></code>
