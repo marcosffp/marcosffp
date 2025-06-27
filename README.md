@@ -1,8 +1,7 @@
 <div align="center">
 
 
-
-  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/61a58ef3-c9bc-4b3d-b57b-eee368905ff7" style="max-width: 100%; height: auto; object-fit: cover;" />
+  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/1cf5746a-5f84-40e7-b118-780d5dcbb424" style="max-width: 100%; height: auto; object-fit: cover;" />
 </div>
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 <div align="center">
