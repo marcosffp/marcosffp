@@ -65,7 +65,7 @@
 <code><img height="35" alt="tailwind" src="https://github.com/user-attachments/assets/a0cbfc37-5c80-4835-90b3-019a03916068"></code>
 <code><img height="35" alt="python" src="https://github.com/user-attachments/assets/74a30a66-b864-4073-97de-913f33372945"></code>
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
-<code><img height="35" alt="astah" src="https://yt3.googleusercontent.com/ytc/AIdro_lL1--y63-oDlcrtDfSMns9GYAeQNScYnOXew4J6arc1g=s900-c-k-c0x00ffffff-no-rj"></code>
+<code><img height="35" alt="astah" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Antu_astah-community.svg/2048px-Antu_astah-community.svg.png"></code>
 
 </div>
 
