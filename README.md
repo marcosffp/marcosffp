@@ -7,8 +7,9 @@
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 <div align="center">
   <table>
+
     <tr>
-      <td><a href="https://github.com/marcosffp" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--70-flat-social-icons-color-pack-logos-432516.png?f=webp&w=256" width="50px" height="50px"/></a></td>
+      <td><a href="https://github.com/marcosffp" target="_blank"><img src="https://github.com/user-attachments/assets/c2f3f854-084c-4026-ad86-6394c4ada867?f=webp&w=256" width="50px" height="50px"/></a></td>
       <td><a href="https://replit.com/@mafpinto"><img src="https://img.icons8.com/ios_filled/200/228BE6/replit.png" width="50px" height="50px"/></a></td>
       <td><a href="mailto:marcosferralbe@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/9840/9840619.png" width="50px" height="50px"/></a></td>
       <td><a href="https://www.instagram.com/marcos.fkp/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/747/747976.png" width="50px" height="50px"/></a></td>
