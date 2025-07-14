@@ -74,7 +74,7 @@
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="35" alt="astah" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Antu_astah-community.svg/2048px-Antu_astah-community.svg.png"></code>
 <code><img height="35" alt="rabbitmq" src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png"></code>
-<code><img height="35" alt="kafka" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweEqEbCrULaNzTcWHGHFkBQLdlkawv57nIg&s"></code>
+<code><img height="35" alt="kafka" src="https://cdn.imgbin.com/14/8/10/imgbin-apache-kafka-apache-cassandra-logo-apache-http-server-apache-hadoop-beijing-qu5ip17q8Y0a4x8xkQ8ExSgf5.jpg"></code>
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
