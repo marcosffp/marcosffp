@@ -50,7 +50,6 @@
 <code><img height="35" alt="vercel" src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png"></code>
 <code><img height="35" alt="figma" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
 <code><img height="35" alt="miro" src="https://files.readme.io/17d4a23-miro-logo-color-square.png"></code>
-<code><img height="35" alt="windows 11" src="https://img.icons8.com/?size=512&id=TuXN3JNUBGOT&format=png"></code>
 <code><img height="35" alt="code blocks" src="https://images.icon-icons.com/1508/PNG/512/codeblocks_104542.png"></code>
 <code><img height="35" alt="c" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/C_logo-6-150x150.png"></code>
 <code><img height="35" alt="c++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
@@ -74,7 +73,7 @@
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="35" alt="astah" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Antu_astah-community.svg/2048px-Antu_astah-community.svg.png"></code>
 <code><img height="35" alt="rabbitmq" src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png"></code>
-<code><img height="35" alt="kafka" src="https://cdn.imgbin.com/14/8/10/imgbin-apache-kafka-apache-cassandra-logo-apache-http-server-apache-hadoop-beijing-qu5ip17q8Y0a4x8xkQ8ExSgf5.jpg"></code>
+<code><img height="35" alt="kafka" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/1200px-Apache_Kafka_logo.svg.png"></code>
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
