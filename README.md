@@ -1,8 +1,15 @@
-<div align="center">
+<!--<div align="center">
 
 
   <img align="center" alt="Header" src="https://github.com/user-attachments/assets/33a0ba30-ef94-47b6-9c21-09d7799bc294" style="max-width: 100%; height: auto; object-fit: cover;" />
-</div>
+</div>-->
+
+
+### 💫 Sobre Mim:
+
+🔭 Estou desenvolvendo soluções distribuídas com Java, Spring Boot, RabbitMQ e Docker, explorando arquitetura de microsserviços na prática<br>👯 Tenho interesse em colaborar com equipes de tecnologia que valorizam boas práticas e impacto real<br>💬 Me chama para conversar sobre arquitetura de software, design de sistemas, projetos acadêmicos ou desafios técnicos<br>⚡ "Código limpo é aquele que expressa bem sua intenção, não apenas o que faz." – Inspirado em *Clean Code*
+
+
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 <div align="center">
   <table>
