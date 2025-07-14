@@ -166,7 +166,6 @@
 
 
 
-<img width="970" height="482" alt="Captura de tela 2025-07-14 100649" src="https://github.com/user-attachments/assets/33a0ba30-ef94-47b6-9c21-09d7799bc294" />
 
 
 
