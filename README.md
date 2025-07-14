@@ -161,17 +161,6 @@
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DCDCDC&section=footer" width="1000" />
 
 
-<img width="214" height="333" alt="download" src="https://github.com/user-attachments/assets/39451239-4804-4c0b-b741-ecce942a416e" />
-
-
-
-<img width="797" height="437" alt="image" src="https://github.com/user-attachments/assets/6fa48938-6cce-4358-825d-3aa6097c575d" />
-
-
-
-
-
-
 
 
 
