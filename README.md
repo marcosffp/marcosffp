@@ -36,7 +36,6 @@
 
 
 
-<code><img height="35" alt="notion" src="https://cdn.iconscout.com/icon/free/png-256/free-notion-2296040-1911999.png?f=webp&w=256"></code>
 <code><img height="35" alt="visual studio code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519g"></code>
 <code><img height="35" alt="html" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
 <code><img height="35" alt="css" src="https://logospng.org/download/css-3/logo-css-3-2048.png"></code>
