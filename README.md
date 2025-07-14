@@ -72,7 +72,7 @@
 <code><img height="35" alt="mongobd" src="https://github.com/user-attachments/assets/74a30a66-b864-4073-97de-913f33372945"></code>
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="35" alt="astah" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Antu_astah-community.svg/2048px-Antu_astah-community.svg.png"></code>
-<code><img height="35" alt="gradle" src="https://cdn.creazilla.com/icons/3253858/gradle-icon-lg.png"></code>
+<code><img height="35" alt="gradle" src="https://github.com/user-attachments/assets/e1575368-d3da-4bae-84bd-56de76ee0902"></code>
 <code><img height="35" alt="rabbitmq" src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png"></code>
 <code><img height="35" alt="kafka" src="https://github.com/user-attachments/assets/39451239-4804-4c0b-b741-ecce942a416e"></code>
 </div>
@@ -163,6 +163,7 @@
 
 
 
+<img width="597" height="437" alt="image" src="https://github.com/user-attachments/assets/e1575368-d3da-4bae-84bd-56de76ee0902" />
 
 
 
