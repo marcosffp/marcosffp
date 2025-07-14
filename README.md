@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/1cf5746a-5f84-40e7-b118-780d5dcbb424" style="max-width: 100%; height: auto; object-fit: cover;" />
+  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/33a0ba30-ef94-47b6-9c21-09d7799bc294" style="max-width: 100%; height: auto; object-fit: cover;" />
 </div>
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 <div align="center">
@@ -153,4 +153,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06b5ff&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DCDCDC&section=footer" width="1000" />
+
+
+
+
+
+
+<img width="970" height="482" alt="Captura de tela 2025-07-14 100649" src="https://github.com/user-attachments/assets/33a0ba30-ef94-47b6-9c21-09d7799bc294" />
+
+
+
+
+
 
