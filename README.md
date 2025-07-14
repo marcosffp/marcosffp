@@ -73,7 +73,7 @@
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="35" alt="astah" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Antu_astah-community.svg/2048px-Antu_astah-community.svg.png"></code>
 <code><img height="35" alt="rabbitmq" src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png"></code>
-<code><img height="35" alt="kafka" src="https://github.com/user-attachments/assets/6fa48938-6cce-4358-825d-3aa6097c575d"></code>
+<code><img height="35" alt="kafka" src="https://github.com/user-attachments/assets/39451239-4804-4c0b-b741-ecce942a416e"></code>
 </div>
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
@@ -161,10 +161,14 @@
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=DCDCDC&section=footer" width="1000" />
 
 
+<img width="214" height="333" alt="download" src="https://github.com/user-attachments/assets/39451239-4804-4c0b-b741-ecce942a416e" />
 
 
 
 <img width="797" height="437" alt="image" src="https://github.com/user-attachments/assets/6fa48938-6cce-4358-825d-3aa6097c575d" />
+
+
+
 
 
 
