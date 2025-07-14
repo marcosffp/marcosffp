@@ -57,6 +57,7 @@
 <code><img height="35" alt="insomnia" src="https://portapps.io/img/app/insomnia.png"></code>
 <code><img height="35" alt="camunda" src="https://www.holunda.io/camunda-bpm-data/snapshot/assets/img/camunda-logo.png"></code>
 <code><img height="35" alt="lucidchart" src="https://store-images.s-microsoft.com/image/apps.7736.f1e439b9-777e-47dd-b695-f05d19eb7b38.8ee3e6f6-c400-4919-811d-59b0cd18fa41.e5bd6ef7-31e5-4ca5-a5c6-79be979af666.png"></code>
+<code><img height="35" alt="mavem" src="https://images.icon-icons.com/2107/PNG/512/file_type_maven_icon_130397.png"></code>
 <code><img height="35" alt="springboot" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png"></code>
 <code><img height="35" alt="heidiSQL" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png"></code>
 <code><img height="35" alt="dbeaver" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1200px-DBeaver_logo.svg.png"></code>
@@ -71,6 +72,7 @@
 <code><img height="35" alt="mongobd" src="https://github.com/user-attachments/assets/74a30a66-b864-4073-97de-913f33372945"></code>
 <code><img height="35" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"></code>
 <code><img height="35" alt="astah" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Antu_astah-community.svg/2048px-Antu_astah-community.svg.png"></code>
+<code><img height="35" alt="gradle" src="https://cdn.creazilla.com/icons/3253858/gradle-icon-lg.png"></code>
 <code><img height="35" alt="rabbitmq" src="https://images.icon-icons.com/2699/PNG/512/rabbitmq_logo_icon_170810.png"></code>
 <code><img height="35" alt="kafka" src="https://github.com/user-attachments/assets/39451239-4804-4c0b-b741-ecce942a416e"></code>
 </div>
