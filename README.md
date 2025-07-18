@@ -1,4 +1,4 @@
-**👨‍💻 Engenheiro de Software na PUC Minas. Mais de 1 ano de experiência.**
+**👨‍💻 Engenheiro de Software na PUC Minas. Mais de 1 ano de experiência no curso.**
 
 🎓 **Graduando em Engenharia de Software** - PUC Minas (2024 - 2027)
 
