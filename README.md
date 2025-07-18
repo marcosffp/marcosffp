@@ -15,6 +15,8 @@
 
 * **Hortifruti Santa Luzia** - Atendente (2022 - 2025): Atendimento ao cliente e controle de estoque.
 
+<hr style="border: 1px solid #ccc; width: 80%;"/>
+
 
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
