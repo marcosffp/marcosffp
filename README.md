@@ -17,20 +17,10 @@
 
 
 
-
-
-<hr style="border: 1px solid #ccc; width: 80%;"/>
-<div align="justify">
-  <i><b>Olá</b> 👋, sou o <code>Marcos</code>, tenho 19 anos, moro em BH e programo desde os 18 anos. Atualmente, sou <code>aluno</code> do curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> 👨‍💻<br />
-</div>
-
-<hr style="border: 1px solid #ccc; width: 80%;"/>
-
-
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,git,cpp,java,astro,spring,mysql,ts,docker,mongodb,py,rabbitmq,kafka,postgres,react)](https://skillicons.dev)
 
 <code><img height="35" alt="visual studio code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519g"></code>
 <code><img height="35" alt="html" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
