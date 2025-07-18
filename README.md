@@ -1,13 +1,20 @@
-<!--<div align="center">
+**👨‍💻 Software Engineer at PUC Minas. 1+ years of experience.**
 
+🎓 **Graduando em Engenharia de Software** - PUC Minas (2024 - 2027)
 
-  <img align="center" alt="Header" src="https://github.com/user-attachments/assets/33a0ba30-ef94-47b6-9c21-09d7799bc294" style="max-width: 100%; height: auto; object-fit: cover;" />
-</div>-->
+☁️ **AWS Certified AI Practitioner** | **RabbitMQ na Prática** | **Microsserviços com Spring Cloud**
 
+🚀 **Monitor Técnico de Programação e Algoritmos** - PUC Minas
+🎯 **Tech Projects:**
 
-### 💫 Sobre Mim:
+* **Ávila Lotus**: Sistema Web para agendamento e relatórios com Spring Boot, MySQL, Docker.
+* **Gosto?**: Avaliação de estabelecimentos com Spring Boot, Tailwind, TypeScript.
+* **Cadê Meu Pet?**: Plataforma de Pets Perdidos (Premiado na PUC) com Node.js, HTML, CSS, JS.
 
-🔭 Estou desenvolvendo soluções distribuídas com Java, Spring Boot, RabbitMQ e Docker, explorando arquitetura de microsserviços na prática<br>👯 Tenho interesse em colaborar com equipes de tecnologia que valorizam boas práticas e impacto real<br>💬 Me chama para conversar sobre arquitetura de software, design de sistemas, projetos acadêmicos ou desafios técnicos<br>⚡ "Código limpo é aquele que expressa bem sua intenção, não apenas o que faz." – Inspirado em *Clean Code*
+💼 **Experiência Profissional:**
+
+* **Hortifruti Santa Luzia** - Atendente (2022 - 2025): Atendimento ao cliente e controle de estoque.
+
 
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
