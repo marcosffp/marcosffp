@@ -1,8 +1,8 @@
-**👨‍💻 Engenheiro de Software na PUC Minas. Mais de 1 ano de experiência no curso.**
+**👨‍💻 Engenheiro de Software na PUC Minas. Mais de 3 ano de experiência na área.**
 
 🎓 **Graduando em Engenharia de Software** - PUC Minas (2024 - 2027)
 
-☁️ **AWS Certified AI Practitioner** | **RabbitMQ na Prática** | **Microsserviços com Spring Cloud**
+☁️ **Kafka para Mensageria** | **CI/CD com Docker** | **Microsserviços utilizando Spring Cloud**
 
 🚀 **Monitor Técnico de Programação e Algoritmos** - PUC Minas
 🎯 **Tech Projects:**
@@ -13,7 +13,10 @@
 
 💼 **Experiência Profissional:**
 
-* **Hortifruti Santa Luzia** - Atendente (2022 - 2025): Atendimento ao cliente e controle de estoque.
+* **Hortifruti Santa Luzia**
+  **Assistente de Suporte de TI** (jan de 2022 - dez de 2024): Suporte técnico, soluções automatizadas para emissão de notas fiscais, melhorias na infraestrutura de TI e processos operacionais.
+  **Atendente e Auxiliar de Gestão** (fev de 2020 - dez de 2022): Atendimento ao cliente, controle de estoque, análise de métricas e melhorias na operação.
+
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 
