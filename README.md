@@ -15,6 +15,7 @@
 
 * **Hortifruti Santa Luzia**
   **Assistente de Suporte de TI** (jan de 2022 - dez de 2024): Suporte técnico, soluções automatizadas para emissão de notas fiscais, melhorias na infraestrutura de TI e processos operacionais.
+  
   **Atendente e Auxiliar de Gestão** (fev de 2020 - dez de 2022): Atendimento ao cliente, controle de estoque, análise de métricas e melhorias na operação.
 
 
