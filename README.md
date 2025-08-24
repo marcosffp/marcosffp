@@ -13,7 +13,7 @@
 
 💼 **Experiência Profissional:**
 
-* **Praça Tech
+* **Praça Tech**
 
   * Estagiário de Engenharia de Software | Ago de 2025 - o momento**
   
