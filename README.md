@@ -13,11 +13,15 @@
 
 💼 **Experiência Profissional:**
 
-* **Praça Tech**
+* **Praça Tech
+
+  * Estagiário de Engenharia de Software | Ago de 2025 - o momento**
   
-  **Desenvolvimento Full Stack**: Atuo no ciclo completo de desenvolvimento de aplicações web utilizando React e Supabase. No mobile, contribuo para projetos com React Native.  
-  **Arquitetura e Tomada de Decisão**: Participo ativamente da definição da arquitetura técnica dos projetos e em soluções sejam escaláveis que atendam às necessidades do negócio e da equipe.
-  **Melhoria de Processos**: Contribuo para a documentação técnica e organização dos processos de desenvolvimento aplicando metodologias ágeis.
+     * **Desenvolvimento Full Stack**: Atuo no ciclo completo de desenvolvimento de aplicações web utilizando React e Supabase. No mobile, contribuo para projetos com React Native.
+  
+     * **Arquitetura e Tomada de Decisão**: Participo ativamente da definição da arquitetura técnica dos projetos e em soluções sejam escaláveis que atendam às necessidades do negócio e da equipe.
+       
+     * **Melhoria de Processos**: Contribuo para a documentação técnica e organização dos processos de desenvolvimento aplicando metodologias ágeis.
 
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
