@@ -13,11 +13,11 @@
 
 💼 **Experiência Profissional:**
 
-* **Hortifruti Santa Luzia**
+* **Praça Tech**
   
-  **Assistente de Suporte de TI** (jan de 2022 - dez de 2024): Suporte técnico, soluções automatizadas para emissão de notas fiscais, melhorias na infraestrutura de TI e processos operacionais.
-  
-  **Atendente e Auxiliar de Gestão** (fev de 2020 - dez de 2022): Atendimento ao cliente, controle de estoque, análise de métricas e melhorias na operação.
+  **Desenvolvimento Full Stack**: Atuo no ciclo completo de desenvolvimento de aplicações web utilizando React e Supabase. No mobile, contribuo para projetos com React Native.  
+  **Arquitetura e Tomada de Decisão**: Participo ativamente da definição da arquitetura técnica dos projetos e em soluções sejam escaláveis que atendam às necessidades do negócio e da equipe.
+  **Melhoria de Processos**: Contribuo para a documentação técnica e organização dos processos de desenvolvimento aplicando metodologias ágeis.
 
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
