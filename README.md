@@ -1,28 +1,36 @@
-**👨‍💻 Engenheiro de Software na PUC Minas. Mais de 3 ano de experiência na área.**
+Segue a versão atualizada e ajustada:
 
-🎓 **Graduando em Engenharia de Software** - PUC Minas (2024 - 2027)
+**👨‍💻 Engenheiro de Software em formação na PUC Minas | +3 anos de experiência na área**
 
-☁️ **Kafka para Mensageria** | **CI/CD com Docker** | **Microsserviços utilizando Spring Cloud**
+🎓 **Graduando em Engenharia de Software** — PUC Minas (2024–2027)
 
-🚀 **Monitor Técnico de Programação e Algoritmos** - PUC Minas
-🎯 **Tech Projects:**
+☁️ **Kafka (Mensageria)** | **CI/CD com Docker** | **Microsserviços com Spring Cloud**
 
-* **Ávila Lotus**: Sistema Web para agendamento e relatórios com Spring Boot, MySQL, Docker.
-* **Gosto?**: Avaliação de estabelecimentos com Spring Boot, Tailwind, TypeScript.
-* **Cadê Meu Pet?**: Plataforma de Pets Perdidos (Premiado na PUC) com Node.js, HTML, CSS, JS.
+🚀 **Monitor Técnico de Programação e Algoritmos** — PUC Minas
+
+🎯 **Projetos Técnicos:**
+
+* **[Hortifruti SL](https://github.com/marcosffp/hortifruti)**: Sistema de gestão empresarial com conciliação bancária e boletos (Spring Boot, Next.js, MySQL, APIs integradas)
+* **[Ávila Lotus](https://github.com/marcosffp/Avila-Lotus)**: Sistema web de agendamentos e relatórios (Spring Boot, MySQL, Docker)
+* **[Gostô?](https://github.com/marcosffp/Gostoo)**: Plataforma de avaliação de estabelecimentos (Spring Boot, Tailwind, TypeScript)
+* **[Cadê Meu Pet?](https://github.com/marcosffp/Cad-Meu-Pet)**: Plataforma de pets perdidos — *Projeto premiado na PUC* (Node.js, HTML, CSS, JS)
 
 💼 **Experiência Profissional:**
 
-* **Praça Tech: Estagiário de Engenharia de Software | Ago de 2025 - o momento**
+* **EloGroup** — Estagiário de Desenvolvimento | **Dez/2025 – Atual**
+* **Praça Tech** — Estagiário de Engenharia de Software | **Ago/2025 – Nov/2025**
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
+
+Se quiser, adapto o tom para LinkedIn mais formal ou mais “marketável”.
+
 
 
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,git,cpp,java,astro,spring,mysql,ts,docker,mongodb,py,rabbitmq,kafka,postgres,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,androidstudio,cpp,java,astro,spring,mysql,ts,docker,mongodb,py,rabbitmq,kafka,postgres,react)](https://skillicons.dev)
 
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
