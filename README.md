@@ -115,28 +115,27 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
 
 [![Marcos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosffp&custom_title=Minhas%20Contribuições&hide_border=false&theme=high-contrast&border_color=1F6FEB&bg_color=0D1117&radius=16&area_color=1F6FEB&area=true&point=ffffff&line=1F6FEB&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/caiquegomesdev/github-readme-activity-graph)
 
-<div align="center" style="width:90%; margin:0 auto;">
-
-<div style="float:left; width:45%; box-sizing:border-box; border:1px solid #1F6FEB; border-radius:12px; padding:24px; text-align:left;">
-  <img src="images/tecnologias.png" width="100%">
-  </br>
-  </br>
-  <img src="https://skillicons.dev/icons?i=js,androidstudio,cpp,java,astro,spring" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,ts,docker,mongodb,py,rabbitmq" /><br>
-  <img src="https://skillicons.dev/icons?i=kafka,postgres,react,git,github,go" /><br>
-</div>
-
-<div style="float:right; width:52%; box-sizing:border-box; border:1px solid #1F6FEB; border-radius:12px; padding:24px;">
-  <img width="100%" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=marcosffp&repo=biblioo&theme=dark&bg_color=1F6FEB&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
+<table align="center" width="90%" style="border-collapse:separate; border-spacing:16px;">
+  <tr>
+    <!-- Skills Left -->
+    <td valign="top" width="45%" style="border:1px solid #1F6FEB; border-radius:12px; padding:24px;">
+      <img src="images/tecnologias.png" width="100%">
+      </br>
+      </br>
+      <img src="https://skillicons.dev/icons?i=js,androidstudio,cpp,java,astro,spring" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql,ts,docker,mongodb,py,rabbitmq" /><br>
+      <img src="https://skillicons.dev/icons?i=kafka,postgres,react,git,github,go" /><br>
+    </td>
+    <!---->
+    <td valign="top" width="52%" style="border:1px solid #1F6FEB; border-radius:12px; padding:24px;">
+      <img width="100%" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=marcosffp&repo=biblioo&theme=dark&bg_color=1F6FEB&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 
 <a href="https://git.io/streak-stats">
     <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=marcosffp&theme=dark&background=0D0D0D&ring=1F6FEB&fire=1F6FEB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1F6FEB&sideLabels=1F6FEB&dates=FFFFFF" />
   </a>
-</div>
-
-<br clear="both"/>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 <hr style="border: 1px solid #1F6FEB; width: 80%;"/>
 
