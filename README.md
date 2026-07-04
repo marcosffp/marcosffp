@@ -98,16 +98,16 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
 <table>
 <tr>
 <th width="14%">Projeto</th>
-<th width="56%">Descrição</th>
-<th width="30%">Stack</th>
+<th width="64%">Descrição</th>
+<th width="22%">Stack</th>
 </tr>
 <tr>
 <td><strong><a href="https://github.com/marcosffp/biblioo">Biblioo</a></strong></td>
 <td>Ajuda leitores a organizar o que estão lendo, descobrir novos livros e se conectar com outras pessoas, unindo estantes virtuais, feed social, comunidades com chat em tempo real, recomendações por seis algoritmos independentes e um assistente de IA conversacional</td>
 <td align="center">
-<img height="40" src="https://skillicons.dev/icons?i=java,spring,mysql" /><br><br>
-<img height="40" src="https://skillicons.dev/icons?i=redis,rabbitmq,nextjs" /><br><br>
-<img height="40" src="https://skillicons.dev/icons?i=ts,flutter,docker" /><br><br>
+<img height="40" src="https://skillicons.dev/icons?i=java,spring,mysql" /><br>
+<img height="40" src="https://skillicons.dev/icons?i=redis,rabbitmq,nextjs" /><br>
+<img height="40" src="https://skillicons.dev/icons?i=ts,flutter,docker" /><br>
 <img height="40" src="https://skillicons.dev/icons?i=gcp" />
 </td>
 </tr>
@@ -115,8 +115,8 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
 <td><strong><a href="https://github.com/marcosffp/hortifruti">Hortifruti SL</a></strong></td>
 <td>Automatiza a rotina financeira do Hortifruti Santa Luzia: lê extratos bancários em PDF para conciliar pagamentos, agrupa vendas por cliente para gerar cobranças e emite boletos e notas fiscais, eliminando processos que antes eram manuais</td>
 <td align="center">
-<img height="40" src="https://skillicons.dev/icons?i=java,spring,mysql" /><br><br>
-<img height="40" src="https://skillicons.dev/icons?i=nextjs,react,ts" /><br><br>
+<img height="40" src="https://skillicons.dev/icons?i=java,spring,mysql" /><br>
+<img height="40" src="https://skillicons.dev/icons?i=nextjs,react,ts" /><br>
 <img height="40" src="https://skillicons.dev/icons?i=tailwind,docker" />
 </td>
 </tr>
@@ -124,7 +124,7 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
 <td><strong><a href="https://github.com/marcosffp/Avila-Lotus">Ávila Lotus</a></strong></td>
 <td>Substitui a agenda de papel de uma massoterapeuta por um sistema completo: agendamento online, fichas de anamnese, comprovantes de pagamento e relatórios financeiros em PDF, com foco em acessibilidade para o público idoso</td>
 <td align="center">
-<img height="40" src="https://skillicons.dev/icons?i=java,spring,mysql" /><br><br>
+<img height="40" src="https://skillicons.dev/icons?i=java,spring,mysql" /><br>
 <img height="40" src="https://skillicons.dev/icons?i=astro,tailwind,docker" />
 </td>
 </tr>
@@ -132,7 +132,7 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
 <td><strong><a href="https://github.com/marcosffp/event-driven-architecture">Event-Driven Architecture</a></strong></td>
 <td>Demonstra como reduzir o acoplamento entre serviços acadêmicos trocando eventos assíncronos pelo Kafka, com Outbox Pattern, idempotência e Dead Letter Queue, garantindo resiliência mesmo quando algo falha</td>
 <td align="center">
-<img height="40" src="https://skillicons.dev/icons?i=go,kafka,postgres" /><br><br>
+<img height="40" src="https://skillicons.dev/icons?i=go,kafka,postgres" /><br>
 <img height="40" src="https://skillicons.dev/icons?i=docker" />
 </td>
 </tr>
@@ -140,7 +140,7 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
 <td><strong><a href="https://github.com/marcosffp/Gostoo">Gostô?</a></strong></td>
 <td>Aumenta a visibilidade de pequenos estabelecimentos de Belo Horizonte, conectando avaliadores que descobrem, avaliam e reservam mesas online, enquanto donos de negócio gerenciam mesas e pedidos sem precisar de telefone</td>
 <td align="center">
-<img height="40" src="https://skillicons.dev/icons?i=java,spring,mysql" /><br><br>
+<img height="40" src="https://skillicons.dev/icons?i=java,spring,mysql" /><br>
 <img height="40" src="https://skillicons.dev/icons?i=astro,tailwind" />
 </td>
 </tr>
@@ -148,7 +148,7 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
 <td><strong><a href="https://github.com/marcosffp/Cade-Meu-Pet">Cadê Meu Pet?</a></strong></td>
 <td>Reduz o tempo de separação entre tutores e pets perdidos: qualquer pessoa cadastra, filtra e ajuda a divulgar anúncios de animais desaparecidos, centralizando buscas que antes ficavam espalhadas em grupos de redes sociais</td>
 <td align="center">
-<img height="40" src="https://skillicons.dev/icons?i=html,css,js" /><br><br>
+<img height="40" src="https://skillicons.dev/icons?i=html,css,js" /><br>
 <img height="40" src="https://skillicons.dev/icons?i=nodejs,express" />
 </td>
 </tr>
