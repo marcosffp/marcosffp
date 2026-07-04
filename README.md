@@ -19,10 +19,11 @@
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| **[Hortifruti SL](https://github.com/marcosffp/hortifruti)** | Sistema de gestão empresarial com conciliação bancária e boletos | Spring Boot · Next.js · MySQL · APIs integradas |
-| **[Ávila Lotus](https://github.com/marcosffp/Avila-Lotus)** | Sistema web de agendamentos e relatórios | Spring Boot · MySQL · Docker |
-| **[Gostô?](https://github.com/marcosffp/Gostoo)** | Plataforma de avaliação de estabelecimentos | Spring Boot · Tailwind · TypeScript |
-| **[Cadê Meu Pet?](https://github.com/marcosffp/Cad-Meu-Pet)** | Plataforma de pets perdidos — 🏆 *projeto premiado na PUC* | Node.js · HTML · CSS · JS |
+| **[Biblioo](https://github.com/marcosffp/biblioo)** | Rede social de leitura com arquitetura hexagonal, seis algoritmos de recomendação, IA conversacional e chat em tempo real | Spring Boot · Next.js · Flutter · RabbitMQ · Neo4j · Redis · OpenSearch · Google Cloud |
+| **[Hortifruti SL](https://github.com/marcosffp/hortifruti)** | Sistema de gestão empresarial com conciliação bancária, boletos e integração com APIs | Spring Boot · Next.js · MySQL · APIs |
+| **[Ávila Lotus](https://github.com/marcosffp/Avila-Lotus)** | 🏆 Sistema web de agendamentos e relatórios premiado na PUC Minas | Spring Boot · MySQL · Docker |
+| **[Gostô?](https://github.com/marcosffp/Gostoo)** | Plataforma para avaliação de estabelecimentos | Spring Boot · Tailwind · TypeScript |
+| **[Cadê Meu Pet?](https://github.com/marcosffp/Cad-Meu-Pet)** | 🏆 Plataforma para localização de pets perdidos premiada na PUC Minas | Node.js · HTML · CSS · JavaScript |
 
 ### 💼 Experiência profissional
 
@@ -87,9 +88,11 @@
   <img alt="Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marcosffp&theme=react-dark&hide_border=true"/>
 </p>
 
+<!--
 <p align="center">
   <img alt="GitHub Trophies" src="https://github-trophies.vercel.app/?username=marcosffp&theme=darkhub&no-frame=true&row=1&column=7"/>
 </p>
+-->
 
 <hr style="border: 1px solid #ccc; width: 80%;"/>
 
