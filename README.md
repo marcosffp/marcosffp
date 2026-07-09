@@ -195,7 +195,7 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
 <table>
 <tr>
 <td align="center" width="50%">
-<img alt="GitHub Top Langs" width="460" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosffp&theme=dark&locale=pt-br&hide_border=true&hide=c,jupyter%20notebook"/>
+<img alt="GitHub Top Langs" width="460" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosffp&theme=dark&locale=pt-br&hide_border=true"/>
 </td>
 <td align="center" width="50%">
 <img alt="Stats" width="460" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosffp&theme=github_dark"/>
