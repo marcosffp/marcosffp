@@ -77,7 +77,7 @@ Busco evoluir em ambientes de **alta complexidade**, contribuindo com **código 
 </div>
 </br>
 
-<img src="images/knife.png" width=106px align="right">
+<img src="images/jaspion.png" width=40px align="right">
 
 <blockquote style="border-left: 4px solid #1F6FEB; padding: 0 16px; margin-left: 0;">
 
