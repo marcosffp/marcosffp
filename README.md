@@ -181,7 +181,7 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
       <img width="100%" src="https://github-readme-stats-rushis-projects-a131b45c.vercel.app/api/pin/?username=marcosffp&repo=biblioo&theme=dark&bg_color=1F6FEB&title_color=e0fbfc&text_color=000000&hide_border=true&description_lines_count=7&icon_color=ffffff&cache_seconds=86400" />
 
 <a href="https://git.io/streak-stats">
-    <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=marcosffp&theme=dark&background=0D0D0D&ring=1F6FEB&fire=1F6FEB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1F6FEB&sideLabels=1F6FEB&dates=FFFFFF" />
+    <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=marcosffp&theme=github-dark-blue&hide_border=true&v=2" />
   </a>
     </td>
   </tr>
@@ -195,7 +195,7 @@ O que você vê aqui foi construído com **prática**, **curiosidade** e **persi
 <table>
 <tr>
 <td align="center" width="50%">
-<img alt="GitHub Top Langs" width="460" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosffp&theme=dark&locale=pt-br&hide_border=true"/>
+<img alt="GitHub Top Langs" width="460" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosffp&theme=dark&locale=pt-br&hide_border=true&hide=c,jupyter%20notebook"/>
 </td>
 <td align="center" width="50%">
 <img alt="Stats" width="460" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcosffp&theme=github_dark"/>
